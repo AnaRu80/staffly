@@ -22,9 +22,16 @@ Staffly is a simple React Native app built with Expo where employees can submit 
 
 ## 📸 Screenshots
 
-| Login                                   | Home | Submit Request                         | Profile                                      |
-| --------------------------------------- | ---- | -------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| ![Login](./assets/screenhots/login.PNG) |      | ![Home](./assets/screenshots/home.PNG) | ![Submit](./assets/screenshots/requests.PNG) | ![Profile](./assets/screenshots/profile.PNG) |
+<table>
+  <tr>
+    <td><img src="./assets/screenshots/login.PNG" width="200"/></td>
+    <td><img src="./assets/screenshots/home.PNG" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/screenshots/requests.PNG" width="200"/></td>
+    <td><img src="./assets/screenshots/profile.PNG" width="200"/></td>
+  </tr>
+</table>
 
 ## 🚀 Getting Started
 
